@@ -42,7 +42,6 @@ function removeKFromList(list, k) {
       next = current.next;
   }
   
-
   return list
   
 }
